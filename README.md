@@ -2,7 +2,7 @@
 
 Submitted by: **William McPhail**
 
-**Sea Monster Crowdfundingp** is a website for the company that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company that displays information about the games they have funded.
 
 Time spent: **5** hours spent in total
 
